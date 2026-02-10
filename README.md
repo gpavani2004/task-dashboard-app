@@ -149,6 +149,7 @@ Deploy frontend and backend separately (e.g., Vercel + AWS)
 ## Author
 
 G Pavani
+
 Frontend Developer Intern Applicant
 
 
