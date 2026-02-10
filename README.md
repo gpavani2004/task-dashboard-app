@@ -145,6 +145,16 @@ Add role-based access control
 Deploy frontend and backend separately (e.g., Vercel + AWS)
 
 ---
+### Screenshots
+
+#### Dashboard
+Dashboard screenshot (Screenshorts/Dashboard.png)
+
+Login screenshot (Screenshorts/Login.png)
+
+Swagger screenshot (Screeshorts/Swagger.png)
+
+---
 
 ## Author
 
